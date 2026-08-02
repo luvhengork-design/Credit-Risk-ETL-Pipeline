@@ -1,16 +1,16 @@
 # Credit-Risk-ETL-Pipeline
     End-to-end ETL pipeline with data validation for credit risk data using Pandas, Pandera, and SQLAlchemy.
     
-    ## Tech Stack
+## Tech Stack
     Python | Pandas | Pandera | SQLAlchemy | Git
     
-    ## How to Run
+## How to Run
     ```bash
     pip install -r requirements.txt
     python extract.py
     python transform_load.py
 
-    ## What it does
+## What it does
 - **Extract**: Reads loan data from CSV
 - **Transform**: Validates data with Pandera schemas, handles type coercion
 - **Load**: Stores clean data in SQLite database using SQLAlchemy
