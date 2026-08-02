@@ -5,7 +5,7 @@
     Python | Pandas | Pandera | SQLAlchemy | Git
     
     ## How to Run
-    ```bash```
+    ```bash
     pip install -r requirements.txt
     python extract.py
     python transform_load.py
