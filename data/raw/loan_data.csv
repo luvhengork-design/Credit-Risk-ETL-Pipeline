@@ -1,0 +1,4 @@
+loan_id,income,loan_amount,credit_score,employment_years,debt_to_income
+1,50000.0,10000.0,720,5.0,0.3
+2,35000.0,8000.0,650,2.0,0.4
+3,80000.0,20000.0,780,10.0,0.2
